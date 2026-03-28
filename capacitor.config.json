@@ -1,0 +1,6 @@
+{
+  "appId": "com.ksmartai.app",
+  "appName": "K-Smart AI",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
